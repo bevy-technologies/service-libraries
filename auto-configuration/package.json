@@ -1,0 +1,24 @@
+{
+  "name": "@bevy-technologies/auto-configuration",
+  "version": "1.0.0",
+  "description": "Bevy auto configuration ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bevy-technologies/service-libraries.git"
+  },
+  "author": "technology@bevy-express.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bevy-technologies/service-libraries/issues"
+  },
+  "homepage": "https://github.com/bevy-technologies/service-libraries#readme",
+  "dependencies": {
+    "@google-cloud/secret-manager": "^4.0.0",
+    "@mikro-orm/nestjs": "^5.0.2",
+    "@mikro-orm/sql-highlighter": "^1.0.1"
+  }
+}
