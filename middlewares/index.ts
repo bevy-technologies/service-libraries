@@ -2,5 +2,6 @@ export {
     RawBodyMiddleware,
     RawBodyParserMiddleware,
     JsonBodyMiddleware,
-    ORMRequestContextMiddleware
+    ORMRequestContextMiddleware,
+    MiddlewaresModule
 } from './src/main';
