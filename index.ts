@@ -1,3 +1,3 @@
-const { RawBodyMiddleware } = require('./raw-body');
+const { RawBodyMiddleware } = require('./middlewares/raw-body');
 
 module.exports = { RawBodyMiddleware };
