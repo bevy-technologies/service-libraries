@@ -1,6 +1,6 @@
 {
   "name": "@bevy-technologies/middlewares",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Bevy Middlewares",
   "main": "index.ts",
   "scripts": {
