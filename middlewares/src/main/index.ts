@@ -3,10 +3,9 @@ import { ORMRequestContextMiddleware } from './orm-request-context.middleware'
 import { RawBodyParserMiddleware } from './raw-body-parser.middleware'
 import { RawBodyMiddleware } from './raw-body.middleware'
 
-export default {
+export {
     JsonBodyMiddleware,
     ORMRequestContextMiddleware,
     RawBodyParserMiddleware,
     RawBodyMiddleware
-
 }
